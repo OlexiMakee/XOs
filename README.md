@@ -1,6 +1,6 @@
 # XOs
 
-XOs is the good old Tic-Tac-Toe PvP turn-based game. All you need is run XOs.py in your terminal console, program will install a needed library
+XOs is the good old Tic-Tac-Toe PvP turn-based game in Python. All you need is run XOs.py in your terminal console, program will install a needed library
 
     python3 XOs.py
     
