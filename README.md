@@ -2,12 +2,12 @@
 
  XOs is the good old Tic-Tac-Toe PvP turn-based game.
  
- All you need is run XOs.py in your terminal console, program will install a needed library
+     All you need is run XOs.py in your terminal console, program will install a needed library
  
  controls:
  
-     wasd or arrow keys to move selector
-     spacebar or enter to select
+     'wasd' or 'arrow keys' to move selector
+     'spacebar' or 'enter' to select
  
  info:
  
